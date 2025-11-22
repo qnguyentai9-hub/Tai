@@ -43,3 +43,5 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ngocbonggaimng/script/refs/heads/main/NgocBongVn.lua"))()
+ end
+ })
